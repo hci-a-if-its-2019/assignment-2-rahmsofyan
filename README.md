@@ -23,25 +23,24 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 #### 2.1 Original
 Plenty row in one view table,no sorting row,need swipe to see another column,and too long name or tittle.
 ##### 2.2 Solution 1
-Search Feature for searching spesific data,and give result
+1. Search Feature for searching spesific data,and give result
 in table form.\
-\
-Give only 15 rows per view.\
-Expand row when clicked.\
-Pegination.
+1. Give only 15 rows per view.\
+1. Expand row when clicked.\
+1. Pegination.
 
 #### 2.3 Solution 2
-Not in Table useally form.\
-Give only 15 rows per view.\
-Search Feature.\
-Filter by price.\
-give sorting feature.\
-Pegination.
+1. Not in Table useally form.\
+1. Give only 15 rows per view.\
+1. Search Feature.\
+1. Filter by price.\
+1. give sorting feature.\
+1. Pegination.
 
 #### 2.4 Solution 3
-Search feature.\
-Pegination.\
-Give advance setting that collect all setting:
+1. Search feature.\
+1. Pegination.\
+1. Give advance setting that collect all setting:
 filter setting,sort by price or name,
 display how many row per view.All setting can 
 use together.
@@ -63,7 +62,7 @@ Designer must make user more efficent to get their data.And Think about user com
 
 ### 2. Users
 ```
-1  Expected as dducated local citizens.
+1  Expected as educated local citizens.
 2. Familiar with internet or technology.
 3. Familiar using mobile web browser.
 4. Age : 20 - 50 years old.
