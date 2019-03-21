@@ -76,4 +76,8 @@ Designer must make user more efficent to get their data.And Think about user com
 ```
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+1. ![original](sket1.PNG)
+1. ![solution 1](sket2.PNG)
+1. ![solution 2](sket3.PNG)
+1. ![solution 3](sket4.PNG)
+
