@@ -8,16 +8,16 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 
 ### 1. Scan/Photo of Sketches
 ##### 1.1 Original
-![original](Assets/problem.jpg)
+![original](Assets./problem.jpg)
 
 ##### 1.2 Solution 1
-![solution 1](Assets/sol1.jpg)
+![solution 1](Assets./sol1.jpg)
 
 ##### 1.3 Solution 2
-![solution 2](Assets/sol2.jpg)
+![solution 2](Assets./sol2.jpg)
 
 ##### 1.4 Solution 3
-![solution 3](Assets/sol3.jpg)
+![solution 3](Assets./sol3.jpg)
 
 ### 2. Version Differences
 #### 2.1 Original
