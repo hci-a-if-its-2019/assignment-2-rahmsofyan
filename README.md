@@ -28,7 +28,7 @@ in table form.\
 \
 Give only 15 rows per view.\
 Expand row when clicked.\
-Pegination\
+Pegination.
 
 #### 2.3 Solution 2
 Not in Table useally form.\
@@ -36,9 +36,11 @@ Give only 15 rows per view.\
 Search Feature.\
 Filter by price.\
 give sorting feature.\
+Pegination.
 
 #### 2.4 Solution 3
 Search feature.\
+Pegination.\
 Give advance setting that collect all setting:
 filter setting,sort by price or name,
 display how many row per view.All setting can 
