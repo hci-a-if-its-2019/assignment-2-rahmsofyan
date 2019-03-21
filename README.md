@@ -7,46 +7,64 @@ Sketch at least **3 (three)** different UIs for the functions you are targeting.
 You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
 
 ### 1. Scan/Photo of Sketches
-```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
-```
+##### 1.1 Original
+![original](Assets/problem.jpg)
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+##### 1.2 Solution 1
+![solution 1](Assets/sol1.jpg)
+
+##### 1.3 Solution 2
+![solution 2](Assets/sol2.jpg)
+
+##### 1.4 Solution 3
+![solution 3](Assets/sol3.jpg)
 
 ### 2. Version Differences
-```
-Please write a paragraph talking about the differences between the versions
-```
+#### 2.1 Original
+Plenty row in one view table,no sorting row,need swipe to see another column,and too long name or tittle.
+##### 2.2 Solution 1
+Search Feature for searching spesific data,and give result
+in table form.\
+\
+Give only 15 rows per view.\
+Expand row when clicked.\
+Pegination\
+
+#### 2.3 Solution 2
+Not in Table useally form.\
+Give only 15 rows per view.\
+Search Feature.\
+Filter by price.\
+give sorting feature.\
+
+#### 2.4 Solution 3
+Search feature.\
+Give advance setting that collect all setting:
+filter setting,sort by price or name,
+display how many row per view.All setting can 
+use together.
 
 ### 3. Selected Sketch
-```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
-```
+Select solution 3, because more simple and display data
+not in useally boring table.
 
 ### 4. Design Rationale
-```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
-```
+Designer must make user more efficent to get their data.And Think about user comfortabillity
 
 ## Part B: Assumptions
 ### 1. Hardware
-```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
-```
+- Operating System : Android
+- Physical Input : touchscreen
+- Screen Resolution : 1024 x 768 or higher
+- Screen Size : 5'5 inch
+- Screen Color : RGB
+
 ### 2. Users
 ```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
+1  Expected as dducated local citizens.
+2. Familiar with internet or technology.
+3. Familiar using mobile web browser.
+4. Age : 20 - 50 years old.
 ```
 
 ## Part C: Prototypes
