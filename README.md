@@ -34,7 +34,7 @@ in table form.
 1. Pegination.
 
 #### 2.3 Solution 2
-1. Not in Table useally form.
+1. Not in Table usually form.
 1. Give only 15 rows per view.
 1. Make search,filter,and sort in bottom side view.
 1. Search Feature.
@@ -54,7 +54,7 @@ use together.
 
 ### 3. Selected Sketch
 Select solution 3, because more simple and display data
-not in useally boring table.
+not in usually boring table.
 
 ### 4. Design Rationale
 Designer must make user more efficent to get their data.And Think about user comfortabillity
