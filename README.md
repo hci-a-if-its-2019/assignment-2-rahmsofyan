@@ -21,26 +21,33 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 
 ### 2. Version Differences
 #### 2.1 Original
-Plenty row in one view table,no sorting row,need swipe to see another column,and too long name or tittle.
+1. Plenty row in one view table.
+1. No sorting row.
+1. Need swipe to see another column.
+1. Too long name or tittle.
 ##### 2.2 Solution 1
 1. Search Feature for searching spesific data,and give result
 in table form.
 1. Give only 15 rows per view.
+1. Sorting in Header row.
 1. Expand row when clicked.
 1. Pegination.
 
 #### 2.3 Solution 2
 1. Not in Table useally form.
 1. Give only 15 rows per view.
+1. Make search,filter,and sort in bottom side view.
 1. Search Feature.
 1. Filter by price.
 1. give sorting feature.
+1. Expand row when clicked.
 1. Pegination.
 
 #### 2.4 Solution 3
 1. Search feature.
+1. Expand row when clicked.
 1. Pegination.
-1. Give advance setting that collect all setting:
+1. Give advance setting that collect all setting,that appear when setting icon clicked:
 filter setting,sort by price or name,
 display how many row per view.All setting can 
 use together.
