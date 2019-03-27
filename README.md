@@ -77,6 +77,7 @@ Designer must make user more efficent to get their data.And Think about user com
 
 ## Part C: Prototypes
 Low-Fidelty:
-1. ![original](SKET1.PNG)
+![original](SKET1.PNG)
+
 High-Fidelty:
 https://invis.io/ZHR8TM36K4V
