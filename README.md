@@ -63,7 +63,7 @@ Designer must make user more efficent to get their data.And Think about user com
 ### 1. Hardware
 - Operating System : Android
 - Physical Input : touchscreen
-- Screen Resolution : 1024 x 768 or higher
+- Screen Resolution : 480 x 800 or higher
 - Screen Size : 5'5 inch
 - Screen Color : RGB
 
