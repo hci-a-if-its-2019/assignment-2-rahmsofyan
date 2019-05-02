@@ -80,4 +80,6 @@ Low-Fidelty:
 ![original](SKET1.PNG)
 
 High-Fidelty:
-https://invis.io/6ARCUSSXV5S
+[Prototype](https://invis.io/RFRSRF8DXCG)
+[Prototype Video](https://www.youtube.com/watch?v=J1ogtw_lnRY)
+
